@@ -1,5 +1,4 @@
-/*Daniel Ben-Ami
-ID 204084370  */
+/*Daniel Ben-Ami*/
 
 #ifndef _SMATRIX
 #define _SMATRIX
